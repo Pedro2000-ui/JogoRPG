@@ -1,0 +1,8 @@
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\bin\Debug\JogoRPG.exe.config
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\bin\Debug\JogoRPG.exe
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\bin\Debug\JogoRPG.pdb
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\obj\Debug\JogoRPG.csproj.AssemblyReference.cache
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\obj\Debug\JogoRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\obj\Debug\JogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\obj\Debug\JogoRPG.exe
+C:\Users\Pichau\PH Projetos\POO\JogoRPG\JogoRPG\JogoRPG\obj\Debug\JogoRPG.pdb

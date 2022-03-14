@@ -13,7 +13,7 @@ namespace JogoRPG
         public double Forca;
         public double Defesa;
         public double Agilidade;
-        public double Sorte;
+        public int Sorte;
         public double Vida;
         public double Mana;
     }                
