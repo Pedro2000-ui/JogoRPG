@@ -1,0 +1,16 @@
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.exe.config
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.exe
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.pdb
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.AssemblyReference.cache
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.exe
+C:\Users\Pedro.brito\source\repos\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.pdb
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.exe.config
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.exe
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\bin\Debug\RPGTESTE.pdb
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.AssemblyReference.cache
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.csproj.CoreCompileInputs.cache
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.exe
+C:\Users\Pedro.brito\Documents\POO\RPGTESTE\RPGTESTE\obj\Debug\RPGTESTE.pdb
